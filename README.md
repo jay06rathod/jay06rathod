@@ -8,7 +8,7 @@
 
 <p align="center">
   
-  <img align="top" src="https://github-stats-alpha.vercel.app/api?username=jay06rathod&cc=1a1b27&tc=6A9FB5&ic=fff&bc=1a1b27"/>&nbsp;&nbsp;
+  <img align="top" src="https://github-stats-alpha.vercel.app/api?username=jay06rathod&cc=1a1b27&tc=6A9FB5&ic=fff&bc=1a1b27"/>&nbsp;
   <img align="top" src="https://nirzak-streak-stats.vercel.app/?user=jay06rathod&theme=tokyonight&hide_border=true"/>
 </p>
 
