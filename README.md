@@ -8,8 +8,8 @@
 
 <p align="center">
   
-  <img align="top" src="https://github-stats-alpha.vercel.app/api?username=jay06rathod&cc=1a1b27&tc=6A9FB5&ic=fff&bc=1a1b27"/>&nbsp;
-  <img align="top" src="https://nirzak-streak-stats.vercel.app/?user=jay06rathod&theme=tokyonight&hide_border=true"/>
+  <img align="top" src="https://github-stats-alpha.vercel.app/api?username=jay06rathod&cc=1a1b27&tc=7aa2f7&ic=7aa2f7&bc=45475a"/>&nbsp;
+  <img align="top" src="https://nirzak-streak-stats.vercel.app/?user=jay06rathod&theme=tokyonight&hide_border=false&border=45475a&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&sideNums=7aa2f7&sideLabels=7aa2f7&dates=6A9FB5&background=1a1b27"/>
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=jay06rathod&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
